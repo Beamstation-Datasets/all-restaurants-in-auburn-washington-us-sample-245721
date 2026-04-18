@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8938db25-8264-4a26-ba27-81d8ea700eef",
+  "id_short": 245721,
+  "published_at": "2026-04-18T07:42:04Z",
+  "repo_name": "all-restaurants-in-auburn-washington-us-sample-245721",
+  "sample_asset_name": "beamstation_245721_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/245721/beamstation_245721_restaurants-us-wa_SAMPLE_DIST.csv",
+  "sample_records": 20,
+  "sample_sha256": "322ee9767f55c085afce14369caa475046d250d05f42f344fe279b35fddf5987",
+  "sample_size_bytes": 80984,
+  "total_records": 205
+}
