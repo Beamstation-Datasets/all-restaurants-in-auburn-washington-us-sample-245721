@@ -1,6 +1,6 @@
 # All Restaurants in Auburn, Washington, US
 
-> Free BeamStation sample export with 20 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `245721` |
 | Location | Auburn |
 | Category | Restaurants |
-| Full dataset size | 205 records |
-| Free sample size | 20 records (9.76%) |
-| Last export | 2026-04-14T19:15:28.840653+00:00 |
+| Full dataset size | 157 records |
+| Free sample size | 15 records (9.55%) |
+| Last export | 2026-04-21T21:11:00.686496+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-auburn-washington-us-sample-245721/releases/download/sample-latest/beamstation_245721_restaurants-us-wa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
